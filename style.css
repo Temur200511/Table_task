@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1{
+    color: rgba(183, 255, 0, 0.873);
+    padding-left: 100px;
+    margin: 20px 0;
+}
+
+table{
+    border: 1px solid aqua;
+    border-collapse: collapse;
+    background-color: rgb(200, 216, 153);
+    text-transform: capitalize;
+}
+
+ td{
+    border: 1px solid aqua;
+    padding: 10px;
+    text-align: left;
+    width: 120px;
+}
+
+th{
+    border: 1px solid aqua;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
